@@ -1,0 +1,9 @@
+.container {
+  padding: 2rem;
+  direction: rtl;
+}
+
+.title {
+  color: darkblue;
+  font-size: 2rem;
+}
